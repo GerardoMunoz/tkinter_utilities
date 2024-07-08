@@ -17,4 +17,4 @@ To use the ZoomCanvas class, instantiate it within a Tkinter application and add
 * create_zoomable_rectangle_with_text(self, x1, y1, x2, y2, **kwargs): Creates a rectangle with centered text on the canvas.
 * create_zoomable_text(self, x, y, **kwargs): Creates text on the canvas and stores its original font size for correct scaling.
 
-### Powerwd by ChatGPT
+### Powered by ChatGPT
