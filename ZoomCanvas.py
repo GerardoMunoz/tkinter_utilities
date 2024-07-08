@@ -1,4 +1,4 @@
-# Powerwd by ChatGPT
+# Powered by ChatGPT
 import tkinter as tk
 
 class ZoomCanvas(tk.Canvas):
