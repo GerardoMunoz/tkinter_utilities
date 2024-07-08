@@ -11,7 +11,7 @@ The ZoomCanvas class is a custom Tkinter canvas widget that supports zooming, pa
 * Text Scaling: Text items on the canvas scale appropriately with the zoom level.
 
 ### Usage
-To use the ZoomCanvas class, instantiate it within a Tkinter application and add graphical elements to it. Below the code, there is an example of how to use the ZoomCanvas in a simple application.
+To use the ZoomCanvas class, instantiate it within a Tkinter application and add graphical elements to it. Below the class, there is an example of how to use the ZoomCanvas in a simple application.
 
 ### Methods
 * create_zoomable_rectangle_with_text(self, x1, y1, x2, y2, **kwargs): Creates a rectangle with centered text on the canvas.
